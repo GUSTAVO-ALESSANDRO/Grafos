@@ -45,3 +45,4 @@ Clone o repositório:
 git clone https://github.com/GUSTAVO-ALESSANDRO/Grafos.git
 cd Grafos
 ```
+Depois utillize o .ipynb no Google Colab, Jupter notebook ou similares.
