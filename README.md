@@ -1,6 +1,8 @@
 # TrabalhoGrafosPt1
 Este projeto implementa diversas funções para ler dados de instâncias de grafos (em arquivos no formato .dat) e gerar matrizes de pesos para transporte, serviço, demanda e um peso total, considerando arestas e arcos obrigatórios e não obrigatórios.
 
+O trabalho foi feito somente por mim: GUSTAVO ALESSANDRO
+
 # Visão Geral
 O objetivo principal deste projeto é processar instâncias de grafos provenientes de arquivos formatados com informações como:
 
